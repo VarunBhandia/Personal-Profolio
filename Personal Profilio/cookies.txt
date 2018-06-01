@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.emanuelepapale.com	TRUE	/	FALSE	1999999999	__cfduid	df8d12d878f683185f45a54f819d9d93d1527849910
+.google.com	TRUE	/	FALSE	1999999999	NID	131=mt41797ZkQc0zMGUMHAU2_JIB6XSkQ_AfCTVZngGJ5BN_wv6dInCzHzVi4U2CROIvrzhxQ7FLir9Bt7P4P1j8dEeKb8g1vup7GBu0er-yzmMZ5jaucyHodz4AcLg5d-9
+
